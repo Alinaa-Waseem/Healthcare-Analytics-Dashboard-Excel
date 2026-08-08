@@ -272,5 +272,6 @@ Data Modeling
 Dashboard Design
 
 ## Dashboard Preview
+
 <img width="1346" height="482" alt="image" src="https://github.com/user-attachments/assets/1a19063a-274f-4d15-a276-5d51a1617267" />
 <img width="1345" height="465" alt="image" src="https://github.com/user-attachments/assets/dbade5e4-fc80-4f1e-8a2e-78b4f580c739" />
