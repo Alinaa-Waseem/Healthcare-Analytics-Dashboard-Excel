@@ -247,4 +247,10 @@ Dashboard Design
 <img width="1346" height="482" alt="image" src="https://github.com/user-attachments/assets/1a19063a-274f-4d15-a276-5d51a1617267" />
 <img width="1345" height="465" alt="image" src="https://github.com/user-attachments/assets/dbade5e4-fc80-4f1e-8a2e-78b4f580c739" />
 
+## Project Outcome
+
+This project demonstrates an end-to-end Excel analytics workflow, from raw healthcare data preparation and ETL to data modeling, DAX-based calculations, interactive dashboard development, and business insight generation.
+
+The project focuses on transforming raw healthcare data into meaningful information that can support hospital financial monitoring, operational planning, and data-driven decision-making.
+
 ---
