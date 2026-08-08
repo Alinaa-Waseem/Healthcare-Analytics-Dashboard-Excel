@@ -227,35 +227,6 @@ Maintain reliable credit-card payment facilities while continuing to support oth
 ### Improve Resource Planning
 Use monthly appointment trends to improve staffing and resource allocation during high- and low-demand periods.
 
----
-
-## Project Workflow
-
-```text
-Raw Healthcare Data
-        ↓
-Power Query
-(Data Cleaning & ETL)
-        ↓
-Cleaned Data
-        ↓
-Power Pivot
-(Data Modeling & Relationships)
-        ↓
-Date Dimension
-        ↓
-DAX Measures
-        ↓
-Pivot Tables
-        ↓
-Pivot Charts
-        ↓
-Interactive Dashboard
-        ↓
-Business Insights
-        ↓
-Business Recommendations
-
 ## Tools & Technologies
 
 Microsoft Excel
@@ -275,3 +246,5 @@ Dashboard Design
 
 <img width="1346" height="482" alt="image" src="https://github.com/user-attachments/assets/1a19063a-274f-4d15-a276-5d51a1617267" />
 <img width="1345" height="465" alt="image" src="https://github.com/user-attachments/assets/dbade5e4-fc80-4f1e-8a2e-78b4f580c739" />
+
+---
